@@ -1,5 +1,5 @@
-### Hi there 👋, My name is Luan Rodrigues
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### Hi there 👋, My name is Luan Rodrigues
+
 
 I use this profile to expose my projects and study results during my career with technology.
 
